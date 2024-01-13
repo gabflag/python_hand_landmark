@@ -1,3 +1,5 @@
+# Detecção de Mãos e Pose Corporal com MediaPipe
+
 Este é um simples código em Python que utiliza a biblioteca MediaPipe para detectar mãos e pontos de referência da pose humana em tempo real. Ele utiliza a câmera do dispositivo para capturar as imagens e exibe os resultados com pontos marcados nas mãos ou esqueleto corporal.
 
 Requisitos
